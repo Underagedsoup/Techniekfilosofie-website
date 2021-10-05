@@ -72,6 +72,9 @@ img{
   justify-content: center;
 }
 .bijschrift{
-  margin: auto;
+  max-width: 1016px;
+  display: flex;
+  justify-content: center;
   background-color: white;
+  margin: auto;
 }
