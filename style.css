@@ -71,3 +71,7 @@ img{
   display: flex;
   justify-content: center;
 }
+.bijschrift{
+  margin: auto;
+  background-color: white;
+}
