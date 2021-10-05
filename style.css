@@ -1,5 +1,6 @@
 body {
   background-color: #00aaff;
+  font-family: verdana;
 }
 nav{
   max-width: 1400px;
@@ -41,8 +42,8 @@ p{
   background-color: white;
   max-width: 1000px;
   margin: auto;
-  padding: 8px;
   font-size: 1.5em;
+  padding: 8px;
 }
 h2{
   background-color: white;
