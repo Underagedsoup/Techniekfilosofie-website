@@ -8,7 +8,7 @@ nav{
   bottom: 0;
   right: 0;
   width: 100%;
-  border: 3px solid #73AD21;
+  border: 3px solid black;
   top: 0;
   height: 60px;
   background-color: #CEDCE7;
@@ -22,8 +22,21 @@ nav{
   justify-content: center;
 }
 .button {
+  border: 2px solid black;
   width: 33%
 }
+nav a:visited {
+    color: #cac4c2;
+}
+nav a {
+    color: white;
+    display: block;
+    text-decoration: none;
+}
+nav div:hover a, nav div.selected a {
+    color: white;
+}
+
 p{
   background-color: white;
   max-width: 1000px;
