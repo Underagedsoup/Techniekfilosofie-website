@@ -43,4 +43,11 @@ main{
 }
 img{
   margin: auto;
+  max-width: 1000px;
+  padding: 20px;
+  max-height: 500px;
+}
+.img1{
+  display: flex;
+  justify-content: center;
 }
