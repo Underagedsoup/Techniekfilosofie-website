@@ -2,6 +2,8 @@ body {
   background-color: #00aaff;
 }
 nav{
+  max-width: 1200px;
+  margin: auto;
   position sticky;
   bottom: 0;
   right: 0;
@@ -43,9 +45,12 @@ main{
 }
 img{
   margin: auto;
-  max-width: 1000px;
+  max-width: 1200px;
   padding: 20px;
-  max-height: 500px;
+  max-height: 1200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 .img1{
   display: flex;
