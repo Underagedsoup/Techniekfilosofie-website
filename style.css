@@ -1,5 +1,5 @@
 body {
-  /* style voor de body */
+  background-color: #00aaff;
 }
 nav{
   position sticky;
@@ -21,4 +21,21 @@ nav{
 }
 .button {
   width: 33%
+}
+p{
+  background-color: white;
+  max-width: 60%;
+  margin: auto;
+  padding: 8px;
+}
+h2{
+  background-color: white;
+  max-width: 60%;
+  margin: auto;
+  padding: 8px;
+  text-align: center;
+}
+main{
+  background-color: #80d4ff;
+  padding
 }
