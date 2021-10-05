@@ -29,6 +29,7 @@ p{
   max-width: 1000px;
   margin: auto;
   padding: 8px;
+  font-size: 1.5em;
 }
 h2{
   background-color: white;
@@ -36,6 +37,7 @@ h2{
   margin: auto;
   padding: 8px;
   text-align: center;
+  font-size: 2em;
 }
 main{
   margin: auto;
